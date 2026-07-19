@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,order_date,quantity,total_amount,price,expected_total,order_amount_mismatch
+5001,101,9001,2023-07-05,2,120.00,60.00,120.00,False
+5002,102,9003,2023-07-07,1,45.00,45.00,45.00,False
+5003,101,9002,2023-07-12,3,210.00,70.00,210.00,False
+5004,103,9004,2023-07-20,2,90.00,50.00,100.00,True
+5005,105,9003,2023-07-25,4,180.00,45.00,180.00,False
